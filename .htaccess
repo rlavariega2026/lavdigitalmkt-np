@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+
+# Corregir la ruta duplicada que abre la página dentro de /lavdigitalmkt.com/
+RewriteRule ^lavdigitalmkt\.com(?:/index\.html)?/?$ / [R=302,L,NE]

@@ -1,0 +1,21 @@
+LAV DIGITAL MKT — LANDING PAGE RECONSTRUIDA
+
+Esta entrega recupera el diseño aprobado el 27 de octubre, conserva las fotografías originales y el logotipo LAV.
+
+CONTENIDO
+- index.html
+- assets/logo-lav-digital.png
+- assets/servicios/ (7 fotografías originales)
+
+CAMBIOS APLICADOS
+- WhatsApp actualizado a +52 777 441 8793 en navegación, tarjetas, formulario, contacto y botón flotante.
+- Tarjetas digitales NFC desde $350 MXN y enlace a https://lavdigitalmkt.com/tarjetas-nfc/
+- Landing page desde $500 MXN.
+- Página web profesional desde $2,500 MXN.
+- Invitaciones digitales desde $350 MXN.
+- Diseño gráfico desde $300 MXN.
+- Marketing digital desde $500 MXN.
+
+INSTALACIÓN
+Coloca index.html y la carpeta assets juntos en la raíz pública del dominio. No renombres ni separes assets.
+La carpeta assets contiene el logotipo y todas las fotografías usadas por el diseño.
